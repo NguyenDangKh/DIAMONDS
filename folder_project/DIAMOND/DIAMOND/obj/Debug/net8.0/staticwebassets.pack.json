@@ -1,0 +1,1005 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DIAMOND.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DIAMOND.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\Google.png",
+      "PackagePath": "staticwebassets\\Google.png"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\assets\\images\\AvatarUser.png",
+      "PackagePath": "staticwebassets\\assets\\images\\AvatarUser.png"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\assets\\images\\Help.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Help.png"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\assets\\images\\Line.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Line.png"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\assets\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Logo.png"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\assets\\images\\Momo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Momo.png"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\assets\\images\\Phone.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Phone.png"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\assets\\images\\SearchIcon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\SearchIcon.png"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\assets\\images\\ShoppingCart.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ShoppingCart.png"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\assets\\images\\Visa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Visa.png"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\accordions.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\accordions.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\alerts.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\alerts.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\animate.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\animate.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\buttons.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\buttons.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\c3\\c3.min.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\c3\\c3.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\chosen\\bootstrap-chosen.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\chosen\\bootstrap-chosen.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\code-editor\\ambiance.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\code-editor\\ambiance.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\code-editor\\codemirror.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\code-editor\\codemirror.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\colorpicker\\colorpicker.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\colorpicker\\colorpicker.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\cropper\\cropper.min.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\cropper\\cropper.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\data-table\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\data-table\\bootstrap-editable.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\data-table\\bootstrap-table.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\data-table\\bootstrap-table.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\datapicker\\colorpicker.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\datapicker\\colorpicker.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\datapicker\\datepicker3.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\datapicker\\datepicker3.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\dropzone\\dropzone.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\dropzone\\dropzone.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\duallistbox\\bootstrap-duallistbox.min.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\duallistbox\\bootstrap-duallistbox.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\editor\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\editor\\bootstrap-editable.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\editor\\datetimepicker.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\editor\\datetimepicker.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\editor\\select2.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\editor\\select2.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\editor\\x-editor-style.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\editor\\x-editor-style.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\form\\all-type-forms.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\form\\all-type-forms.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\form\\themesaller-forms.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\form\\themesaller-forms.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\ionRangeSlider\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\ionRangeSlider\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\ionRangeSlider\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\ionRangeSlider\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\ionRangeSlider\\sprite-skin-flat.png",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\ionRangeSlider\\sprite-skin-flat.png"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\main.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\main.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\meanmenu.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\metisMenu\\metisMenu-vertical.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\metisMenu\\metisMenu-vertical.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\metisMenu\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\metisMenu\\metisMenu.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\modals.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\modals.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\morrisjs\\morris.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\morrisjs\\morris.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\nalika-icon.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\nalika-icon.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\normalize.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\owl.theme.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\owl.theme.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\owl.transitions.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\owl.transitions.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\preloader\\preloader-style.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\preloader\\preloader-style.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\responsive.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\scrollbar\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\scrollbar\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\summernote\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\summernote\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\summernote\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\summernote\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\summernote\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\summernote\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\summernote\\summernote.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\summernote\\summernote.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\tabs.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\tabs.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\touchspin\\jquery.bootstrap-touchspin.min.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\touchspin\\jquery.bootstrap-touchspin.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\tree-viewer\\32px.png",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\tree-viewer\\32px.png"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\tree-viewer\\throbber.gif",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\tree-viewer\\throbber.gif"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\LeftNavTemplate\\tree-viewer\\tree-viewer.css",
+      "PackagePath": "staticwebassets\\css\\LeftNavTemplate\\tree-viewer\\tree-viewer.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\leftnavtemplate.css",
+      "PackagePath": "staticwebassets\\css\\leftnavtemplate.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\memberpage.css",
+      "PackagePath": "staticwebassets\\css\\memberpage.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\shoppingcart.css",
+      "PackagePath": "staticwebassets\\css\\shoppingcart.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\signup.css",
+      "PackagePath": "staticwebassets\\css\\signup.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\index-1.html",
+      "PackagePath": "staticwebassets\\index-1.html"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\c3-charts\\c3-active.js",
+      "PackagePath": "staticwebassets\\js\\c3-charts\\c3-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\c3-charts\\c3.min.js",
+      "PackagePath": "staticwebassets\\js\\c3-charts\\c3.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\c3-charts\\d3.min.js",
+      "PackagePath": "staticwebassets\\js\\c3-charts\\d3.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\card.js",
+      "PackagePath": "staticwebassets\\js\\card.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\chart\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\js\\chart\\jquery.peity.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\chart\\peity-active.js",
+      "PackagePath": "staticwebassets\\js\\chart\\peity-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\charts\\Chart.js",
+      "PackagePath": "staticwebassets\\js\\charts\\Chart.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\charts\\area-chart.js",
+      "PackagePath": "staticwebassets\\js\\charts\\area-chart.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\charts\\bar-chart.js",
+      "PackagePath": "staticwebassets\\js\\charts\\bar-chart.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\charts\\line-chart.js",
+      "PackagePath": "staticwebassets\\js\\charts\\line-chart.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\charts\\rounded-chart.js",
+      "PackagePath": "staticwebassets\\js\\charts\\rounded-chart.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\chosen\\chosen-active.js",
+      "PackagePath": "staticwebassets\\js\\chosen\\chosen-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\js\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\code-editor\\code-editor-active.js",
+      "PackagePath": "staticwebassets\\js\\code-editor\\code-editor-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\code-editor\\code-editor.js",
+      "PackagePath": "staticwebassets\\js\\code-editor\\code-editor.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\code-editor\\codemirror.js",
+      "PackagePath": "staticwebassets\\js\\code-editor\\codemirror.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\colorpicker\\color-picker-active.js",
+      "PackagePath": "staticwebassets\\js\\colorpicker\\color-picker-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\colorpicker\\jquery.spectrum.min.js",
+      "PackagePath": "staticwebassets\\js\\colorpicker\\jquery.spectrum.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\counterup\\counterup-active.js",
+      "PackagePath": "staticwebassets\\js\\counterup\\counterup-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\counterup\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\counterup\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\counterup\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\counterup\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\cropper\\cropper-actice.js",
+      "PackagePath": "staticwebassets\\js\\cropper\\cropper-actice.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\cropper\\cropper.min.js",
+      "PackagePath": "staticwebassets\\js\\cropper\\cropper.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\data-map\\d3.min.js",
+      "PackagePath": "staticwebassets\\js\\data-map\\d3.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\data-map\\data-maps-active.js",
+      "PackagePath": "staticwebassets\\js\\data-map\\data-maps-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\data-map\\datamaps.all.min.js",
+      "PackagePath": "staticwebassets\\js\\data-map\\datamaps.all.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\data-map\\topojson.js",
+      "PackagePath": "staticwebassets\\js\\data-map\\topojson.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\data-table\\bootstrap-editable.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\bootstrap-editable.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\data-table\\bootstrap-table-editable.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\bootstrap-table-editable.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\data-table\\bootstrap-table-export.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\bootstrap-table-export.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\data-table\\bootstrap-table-resizable.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\bootstrap-table-resizable.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\data-table\\bootstrap-table.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\bootstrap-table.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\data-table\\colResizable-1.5.source.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\colResizable-1.5.source.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\data-table\\data-table-active.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\data-table-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\data-table\\tableExport.js",
+      "PackagePath": "staticwebassets\\js\\data-table\\tableExport.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\datapicker\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\datapicker\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\datapicker\\datepicker-active.js",
+      "PackagePath": "staticwebassets\\js\\datapicker\\datepicker-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\js\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\duallistbox\\duallistbox.active.js",
+      "PackagePath": "staticwebassets\\js\\duallistbox\\duallistbox.active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\duallistbox\\jquery.bootstrap-duallistbox.js",
+      "PackagePath": "staticwebassets\\js\\duallistbox\\jquery.bootstrap-duallistbox.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\e-payment.js",
+      "PackagePath": "staticwebassets\\js\\e-payment.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\editable\\bootstrap-datetimepicker.js",
+      "PackagePath": "staticwebassets\\js\\editable\\bootstrap-datetimepicker.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\editable\\bootstrap-editable.js",
+      "PackagePath": "staticwebassets\\js\\editable\\bootstrap-editable.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\editable\\jquery.mockjax.js",
+      "PackagePath": "staticwebassets\\js\\editable\\jquery.mockjax.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\editable\\mock-active.js",
+      "PackagePath": "staticwebassets\\js\\editable\\mock-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\editable\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\editable\\moment.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\editable\\select2.js",
+      "PackagePath": "staticwebassets\\js\\editable\\select2.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\editable\\xediable-active.js",
+      "PackagePath": "staticwebassets\\js\\editable\\xediable-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\flot\\curvedLines.js",
+      "PackagePath": "staticwebassets\\js\\flot\\curvedLines.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\flot\\flot-active.js",
+      "PackagePath": "staticwebassets\\js\\flot\\flot-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\js\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\flot\\jquery.flot.orderBars.js",
+      "PackagePath": "staticwebassets\\js\\flot\\jquery.flot.orderBars.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\js\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\js\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\flot\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\js\\flot\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\google.maps\\google.maps-active.js",
+      "PackagePath": "staticwebassets\\js\\google.maps\\google.maps-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\icheck\\icheck-active.js",
+      "PackagePath": "staticwebassets\\js\\icheck\\icheck-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\icheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\js\\icheck\\icheck.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\input-mask\\jasny-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\input-mask\\jasny-bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\ionRangeSlider\\ion.rangeSlider.active.js",
+      "PackagePath": "staticwebassets\\js\\ionRangeSlider\\ion.rangeSlider.active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\ionRangeSlider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\js\\ionRangeSlider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\jquery-price-slider.js",
+      "PackagePath": "staticwebassets\\js\\jquery-price-slider.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\jquery.meanmenu.js",
+      "PackagePath": "staticwebassets\\js\\jquery.meanmenu.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\jquery.payform.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.payform.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\knob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\js\\knob\\jquery.knob.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\knob\\knob-active.js",
+      "PackagePath": "staticwebassets\\js\\knob\\knob-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\metisMenu\\metisMenu-active.js",
+      "PackagePath": "staticwebassets\\js\\metisMenu\\metisMenu-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\metisMenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\js\\metisMenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\morrisjs\\morris-active-pro.js",
+      "PackagePath": "staticwebassets\\js\\morrisjs\\morris-active-pro.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\morrisjs\\morris-active.js",
+      "PackagePath": "staticwebassets\\js\\morrisjs\\morris-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\morrisjs\\morris.js",
+      "PackagePath": "staticwebassets\\js\\morrisjs\\morris.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\morrisjs\\raphael-min.js",
+      "PackagePath": "staticwebassets\\js\\morrisjs\\raphael-min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\password-meter\\password-meter-active.js",
+      "PackagePath": "staticwebassets\\js\\password-meter\\password-meter-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\password-meter\\pwstrength-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\password-meter\\pwstrength-bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\password-meter\\zxcvbn.js",
+      "PackagePath": "staticwebassets\\js\\password-meter\\zxcvbn.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\pdf\\jquery.media.js",
+      "PackagePath": "staticwebassets\\js\\pdf\\jquery.media.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\pdf\\pdf-active.js",
+      "PackagePath": "staticwebassets\\js\\pdf\\pdf-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\js\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\peity\\peity-active.js",
+      "PackagePath": "staticwebassets\\js\\peity\\peity-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\rangle-slider\\jquery-ui-1.10.4.custom.min.js",
+      "PackagePath": "staticwebassets\\js\\rangle-slider\\jquery-ui-1.10.4.custom.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\rangle-slider\\jquery-ui-touch-punch.min.js",
+      "PackagePath": "staticwebassets\\js\\rangle-slider\\jquery-ui-touch-punch.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\rangle-slider\\rangle-active.js",
+      "PackagePath": "staticwebassets\\js\\rangle-slider\\rangle-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\scrollbar\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollbar\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\scrollbar\\mCustomScrollbar-active.js",
+      "PackagePath": "staticwebassets\\js\\scrollbar\\mCustomScrollbar-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\select2\\select2-active.js",
+      "PackagePath": "staticwebassets\\js\\select2\\select2-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\js\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\sparkline\\jquery.charts-sparkline.js",
+      "PackagePath": "staticwebassets\\js\\sparkline\\jquery.charts-sparkline.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\js\\sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\sparkline\\sparkline-active.js",
+      "PackagePath": "staticwebassets\\js\\sparkline\\sparkline-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\summernote\\summernote-active.js",
+      "PackagePath": "staticwebassets\\js\\summernote\\summernote-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\summernote\\summernote.min.js",
+      "PackagePath": "staticwebassets\\js\\summernote\\summernote.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\tab.js",
+      "PackagePath": "staticwebassets\\js\\tab.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\touchspin\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\js\\touchspin\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\touchspin\\touchspin-active.js",
+      "PackagePath": "staticwebassets\\js\\touchspin\\touchspin-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\tree-line\\jstree.active.js",
+      "PackagePath": "staticwebassets\\js\\tree-line\\jstree.active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\tree-line\\jstree.min.js",
+      "PackagePath": "staticwebassets\\js\\tree-line\\jstree.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\wizard\\jquery.steps.js",
+      "PackagePath": "staticwebassets\\js\\wizard\\jquery.steps.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\wizard\\steps-active.js",
+      "PackagePath": "staticwebassets\\js\\wizard\\steps-active.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\memberpage.html",
+      "PackagePath": "staticwebassets\\memberpage.html"
+    },
+    {
+      "Id": "D:\\New folder (2)\\DIAMOND\\DIAMOND\\wwwroot\\product-list.html",
+      "PackagePath": "staticwebassets\\product-list.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DIAMOND.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DIAMOND.props",
+      "PackagePath": "build\\DIAMOND.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DIAMOND.props",
+      "PackagePath": "buildMultiTargeting\\DIAMOND.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DIAMOND.props",
+      "PackagePath": "buildTransitive\\DIAMOND.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
